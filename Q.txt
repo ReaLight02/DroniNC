@@ -8,6 +8,7 @@ Requisiti funzionali: cosa devono fare i droni e il centro di controllo per sodd
 Requisiti non-funzionali: specifiche su come vengono implementati i requisiti funzionali (?).
 
 Requisiti funzionali utente (?): 
+ * I droni devono sorvegliare una zona definita (come?) 
  * Il centro di controllo deve mandare instruzioni ai droni.
 
 Requisiti non-funzionali utente :
