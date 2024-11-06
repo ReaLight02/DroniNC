@@ -8,8 +8,5 @@ Requisiti funzionali: cosa devono fare i droni e il centro di controllo per sodd
 Requisiti non-funzionali: specifiche su come vengono implementati i requisiti funzionali (?).
 
 Requisiti funzionali utente (?): 
- * I droni devono avere un'autonomia di 30 minuti di volo.
- * I droni devono muoversi alla velocità di 30 Km/h.
- * Il centro di controllo deve essere posizionato al centro dell'area sorvegliata.
  * Il centro di controllo deve mandare instruzioni ai droni.
 
