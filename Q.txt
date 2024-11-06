@@ -11,3 +11,14 @@ Requisiti funzionali utente (?):
  * Il centro di controllo deve mandare instruzioni ai droni.
  * Il centro di controllo deve salvare i log del sistema.
 
+Requisiti non-funzionali utente :
+/
+
+Requisiti funzionali sistema:
+/
+
+Requisiti non-funzionali sistema:
+/
+
+
+
