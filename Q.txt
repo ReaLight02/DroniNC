@@ -9,16 +9,15 @@ Requisiti non-funzionali: specifiche su come vengono implementati i requisiti fu
 
 Requisiti funzionali utente (?): 
  * Il centro di controllo deve mandare instruzioni ai droni.
- * Il centro di controllo deve salvare i log del sistema.
 
 Requisiti non-funzionali utente :
 /
 
 Requisiti funzionali sistema:
-/
+ * Il centro di controllo deve salvare i log del sistema. (1?)
 
 Requisiti non-funzionali sistema:
-/
+ * Il centro di controllo opera su un database. (1?)
 
 
 
