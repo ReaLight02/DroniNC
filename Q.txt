@@ -1,2 +1,6 @@
-Utente: <br/>
+Utente (di cosa ha bisogno l'utente?):
+  * Droni che possano sorvegliare una zona
+    * I droni devono essere efficienti: devono avere una certa autonomia, una propria velocità e un tempo di ricarica.
+    * Tutta la zona deve essere verificata in ogni momento (?)
+  * Centro di controllo che possa mandare le istruzioni ai droni e permettere loro di ricaricarsi.
 
